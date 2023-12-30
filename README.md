@@ -1,6 +1,6 @@
 # Proiect-final-27.01.2024
 
-| Date  | Description  | Author | Comments | 
+| Data  | Descriere  | Autor | Comentarii | 
 |---|---|---|---|
 | 10.11.2023 | Plan testare pentru versiunea 1.0 | Ioana Gornateanu |   |
 | 20.11.2023 | Plan testare pentru versiunea 1.1 | Ioana Gornateanu | Adaugare detalii pentru implementarea testelor  |
@@ -10,57 +10,56 @@
      
       1.1 Scopul proiectului
      
-      1.2 Functionalitati in scot
+      1.2 Functionalitati in scop
      
       1.3 Functionalitati si teste in afara scopului
    
 2. Procesul de testare
       
-      2.1 Test planning
+      2.1 Planul de testare
      
-      2.2 Test analysis
+      2.2 Analiza 
      
-      2.3 Test design
+      2.3 Design 
      
-      2.4 Test implementation
+      2.4 Implementare 
 
-      2.5 Test execution
+      2.5 Executie teste
+   
+      2.6 Inchidere
 
-      2.6 Test closure
+      2.7 Monitorizare si control
 
-      2.7 Test monitoring and control
+   3. Livrabile
 
-   3. Test deliverables
+      3.1 Plan de testare
 
-      3.1 Test plan
+      3.2 Conditii de testare
 
-      3.2 Test conditions
+      3.3 Cazuri de testare
 
-      3.3 Test cases
+      3.4 Raport zilnic
 
-      3.4 Daily tests summary reports
+      3.5 Matrice de trasabilitate
 
-      3.5 Traceability matrix
+      3.6 Rezultate teste
 
-      3.6 Test case results
+      3.7 Raport bug
 
-      3.7 Bugs report
+      3.8 Raport de finalizare a testului
 
-      3.8 Test completion report
-
-      # 1. Introduction
+      # 1. Introducere
       
-OpenCart is free open source e-commerce platform for online merchants.
-Opencart provides a professional and reliable foundation from which to build a successful online store.
+OpenCart este o platforma online care poate fi accesata in mod gratuit pentru comert electronic.
+Opencart  oferă o bază profesională și de încredere cu ajutorul careia putem sa accesam cu succes un magazin online.
 
-This foundation appeals to a wide variety of users; ranging from seasoned web developers looking for a user-friendly interface to use, to shop owners just launching their business online for the first time.
+Aceasta platforma atrage o mare varietate de utilizatori: de la dezvoltatori experimentați care caută o interfață ușor de utilizat, până la proprietarii de magazine care tocmai își lansează afacerea online pentru prima dată.
 
-OpenCart has an extensive amount of features that gives you a strong hold over customization of your store.
+OpenCart are o cantitate mare de caracteristici care vă oferă o baza puternică asupra personalizării magazinului dvs.
 
-With OpenCart`s tools, you can help your online shop live up to its fullest potential.
+Cu instrumentele OpenCart, vă puteți ajuta magazinul online să-și ridice potențialul maxim.
 
-The Story below was created in JIRA and describes a summary of the test cases and the changes that must be implemented, for which the final project is performed upon.
-
+Cele 2 story-uri de mai jos au fost create în JIRA și contin un rezumat al cazurilor de testare și al modificărilor care trebuie implementate, pentru care se realizează proiectul final.
 ![Daily report!](https://github.com/ioanagornateanu/Opencart-project/blob/main/Explicatii%20Story.png)
 
   ## 1.1 Scopul proiectului
@@ -77,199 +76,135 @@ The Story below was created in JIRA and describes a summary of the test cases an
 
 -	 Parti folosite in procesul de testare: folosirea butonului "Filter" ca si scurtatura pentru cautarea produselor din site, schimbarea datelor produselor de pe site;
   
--	Tipuri de testare: Graphical User Interface testing.
+-	Tipuri de testare: Graphical User Interface.
 
 ### 1.3 Functionalitati si teste in afara scopului
 
 -	Parti folosite inafara scopului : Testare automata
--	Non-functional testing like stress, performance is beyond scope of this project.
--	No QA support for mobile applications developed. Only web applications will be tested.
-
+-	Testare non-functionala.
   
-     # 2. Test process
+  
+     # 2. Procesul de testare
 
-  ### 2.1 Test planning
+  ### 2.1 Planul de testare
 
-#### Roles and responsibilities
+#### Roluri si responsabilitati
 
-| Role | Name | Tasks/Work |
+| Rol | Nume | Responsabilitate |
 |---|---|---|
-| Senior Tester | Ioana Gornateanu | will test: use "Filter" as a shortcut to search, change specification for Manufacturers |
+| Senior Tester | Ioana Gornateanu | va testa: use "Filter" as a shortcut to search, change specification for Manufacturers |
 | Tester | Popescu Marian | will test:  change specification for products|
 
-#### Entry criteria:
+#### Criterii de intrare:
 
--	functional business specifications are defined
--	roles needed for the project are allocated
+-	cerintele de business sunt definite
+-	rolurile necesare pentru proiect sunt alocate.
   
-#### Exit criteria:
+#### Criterii de iesire:
 
--	all test cases have been executed 
--	65.4% of tests are passed
--	no Critical issues/bugs have Open status (All unresolved bugs have low priority and low severity)
--	exploratory testing performed on the features: Add funds, Withdraw funds, Send money
--	update tests are 100% passed (update tests will not generate other new issues that impact the application)
+-	toate testele au fost executate
+-	65.4% dintre teste au fost rulate cu succes
+-	Nu avem situatii cu un risc ridicat. Toate defectele gasite au un risc si o severitate scazuta.
+
   
-#### Risks:
-Project risks:
--    short deadline of Zephyr Squad trial
--    unavailability of test environment
+#### Riscuri:
+Riscuri de proiect:
+-    termen scurt pentru procesul Zephyr Squad;
+-   indisponibilitatea meniului de testare;
 
-Product risks:
--	user data (products) might be impacted with update tests
--	IE browser might have performance issues
--	versions of IE older than 1.5923e have security vulnerabilities
--	the web page pagination could be impacted when opened on mobile devices
--	new browser might not be supported
--	stability risks (crashes, disconnects, etc)
+Riscuri de produs:
+-	datele utilizatorilor (produsele) ar putea fi afectate de testele de actualizare
+-	Browserul folosit Chrome poate avea probleme de performanță
+-	Versiunea browserului Chrome poate avea probleme de vulnerabilitate in siguranta utilizarii 
+-	organizarea paginii web ar putea fi afectată atunci când este deschisă pe dispozitive mobile
+-	noul browser posibil sa nu fie suportat
+-	riscuri de stabilitate (crashuri, deconectări etc.)
 
-  ### 2.2 Test analysis
+  ### 2.2 Analiza
   
--	The testing process will be done based on the requirements for features: use "Filter" as a shortcut to search, change specification for Manufacturers, change specification for products;
-
-  ### 2.3 Test design
+-	Procesul de testare se va face pe baza cerințelor de business: folosirea butonului „Filtru” ca scurtătură pentru căutare, modificarea specificațiile pentru Producători, modificarea specificațiile pentru produse;
   
--	All the test cases are written and reviewed 
--	Functional test cases will be created in Zephyr Squad using Jira as Test Management tool
--	GUI test cases will be created in Zephyr Squad using Jira as Test Management tool
--	API testing will be created using Postman as Test Management tool
-
-  ### 2.4 Test implementation
+  ### 2.3 Design
   
--	all the test data is available and reviewed (test data= email examples, password examples)
--	Cycle summary was created and test cases were added to the cycle summary 
--	Test environment is up and running: https://demo.opencart.com/
--	Access to the testing environment is given: Username : demo | Password : demo
+-	Toate cazurile de testare sunt scrise și revizuite
+-	Cazurile de testare funcționale vor fi create în Zephyr Squad folosind Jira ca instrument de gestionare a testelor
+-	Cazurile de testare GUI vor fi create în Zephyr Squad folosind Jira ca instrument de gestionare a testelor
 
 
-  ### 2.5 Test execution
+  ### 2.4 Implementare
   
--	The tests will be executed on the top 4 used browsers: Chrome, Mozilla Firefox, Microsoft Edge, Apple Safari. If time will be available we will extend tests on Opera and Brave browsers
--	Test cases will be executed on the created Test Cycle Summary
--	Bugs will be reported based on the failed tests
+-	toate datele de testare sunt disponibile și revizuite (date de test= exemple de e-mail, exemple de parole)
+-	A fost creat Cycle summary  și cazurile de testare au fost adăugate la Cycle summary  
+-	Mediul de testare este activ și rulează: https://demo.opencart.com/
+-	Accesul la mediul de testare este dat:  Username : demo | Password : demo
 
 
-  ### 2.6 Test closure
+  ### 2.5 Executie teste
   
--	At least 65.4% of tests are passed
--	No Critical issues have Open status
--	Exploratory testing have been performed
+-	Testele vor fi executate pe primele 4 browsere utilizate: Chrome, Mozilla Firefox, Microsoft Edge, Apple Safari
+-	Cazurile de testare vor fi executate pe baza Cycle Summary creat
+-	Erorile (bugs) vor fi raportate pe baza testelor eșuate
 
 
-  ### 2.7 Test monitoring and control
+  ### 2.6 Inchidere
   
--	Various periodic reports (daily/weekly/bi-weekly) will be generated to reflect the current status of the testing process. 
+-	Aproape 65.4% dintre teste au fost realizate cu succes
+-	Nicio situaite critica nu are status de "Open"
+-	Testele exploratorii au fost realizate
 
-     # 3. Test deliverables
 
-  ### 3.1 Test plan 
-
--	The Test Plan is designed to describe all the details of testing for the following features:  use "Filter" as a shortcut to search, change specification for Manufacturers, change specification for products from Opencart site;
--	The plan identifies the items and the features to be tested, the type of testing to be performed, the roles and responsibilities for testing process, the risks associated with the plan, the resources and schedule required to complete testing. 
-
-  ### 3.2 Test conditions 
-
-- The following test conditions could be found here: [test conditions](https://github.com/ioanagornateanu/Opencart-project/blob/main/Test%20condition.pdf)
+  ### 2.7 Monitorizare si control
   
-### 3.3 Test cases
-  
-- The test cases with steps could be found here: [test cases](https://github.com/ioanagornateanu/Opencart-project/blob/main/Test%20case%20with%20steps.pdf)
+-	Rapoarte periodice (zilnica/saptamanale) vor fi generate pentru a reflecta starea curentă a procesului de testare. 
 
-### 3.4 Daily/Weekly/Bi-weekly test summary report
+     # 3. Livrabile
+ 	
+  ### 3.1 Plan de testare
+
+-	Planul de testare este conceput pentru a descrie toate detaliile testării pentru următoarele caracteristici:  folosirea butonului „Filtru” ca scurtătură pentru căutare, modificarea specificațiile pentru Producători, modificarea specificațiile pentru produse;
+-	Planul identifică elementele și caracteristicile care trebuie testate, tipul de testare care trebuie efectuată, rolurile și responsabilitățile pentru procesul de testare, riscurile asociate cu planul, resursele și programul necesar pentru finalizarea testării.
+
+  ### 3.2 Conditii de testare 
+
+- Următoarele condiții de testare pot fi găsite aici: [test conditions](https://github.com/ioanagornateanu/Opencart-project/blob/main/Test%20condition.pdf)
+  
+### 3.3 Cazuri de testare
+  
+- Cazurile de testare cu pași pot fi găsite aici: [test cases](https://github.com/ioanagornateanu/Opencart-project/blob/main/Test%20case%20with%20steps.pdf)
+
+### 3.4 Raport saptamanal
   
 - The following status report was generated after all of the test cases were executed, on 7th of October 2023 [Summary test execution](https://github.com/ioanagornateanu/Opencart-project/blob/main/test%20Summary%20executed.png)
 - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) [Daily test execution](https://github.com/ioanagornateanu/Opencart-project/blob/main/Daily%20Test%20Execution.png), [Weekly Report](https://github.com/ioanagornateanu/Opencart-project/blob/main/Weekly%20Report.png), [Test execution by test cycle](https://github.com/ioanagornateanu/Opencart-project/blob/main/Test%20execution%20by%20Test%20Cycle.png), [Test execution by Tester](https://github.com/ioanagornateanu/Opencart-project/blob/main/Test%20execution%20by%20Tester.png) .
 
- ### 3.5 Traceability matrix
+ ### 3.5 Matrice de trasabilitate
  
- - Link to traceability matrix: [Traceability Matrix](https://github.com/ioanagornateanu/Opencart-project/blob/main/Forward%20Traceability%20Matrix.png) .
+ - Link catre matrice de trasabilitare [Traceability Matrix](https://github.com/ioanagornateanu/Opencart-project/blob/main/Forward%20Traceability%20Matrix.png) .
 
-  ### 3.6 Test case results
+  ### 3.6 Rezultate cazuri testare
 
- The test cases results could be found here: [Test case results](https://github.com/ioanagornateanu/Opencart-project/blob/main/Test%20case%20result.pdf)
+- Rezultatele cazurilor de testare pot fi găsite aici: [Test case results](https://github.com/ioanagornateanu/Opencart-project/blob/main/Test%20case%20result.pdf)
 
-   ### 3.7 Bugs report
+   ### 3.7 Raport bug
 
-  - The bugs reported could be found here: [Bugs](https://github.com/ioanagornateanu/Opencart-project/blob/main/Bugs.pdf) 
+  - Erorile (bugs) raportate pot fi găsite aici: [Bugs](https://github.com/ioanagornateanu/Opencart-project/blob/main/Bugs.pdf) 
 
-   ### 3.8 Test completion report
+   ### 3.8 Raport de finalizare a testului
 
-  - link to test completion report (Test cases ran, how many TC are passed and how many are failed):
+  - link către raportul de finalizare a testului (cazurile de testare au rulat, câte TC au fost trecute și câte au eșuat):
   
     ![Daily report!](https://github.com/ioanagornateanu/Opencart-project/blob/main/Raport%20executie%20GUI%20TESTING.png)
 
     ![Daily report!](https://github.com/ioanagornateanu/Opencart-project/blob/main/Raport%20executie%20AD-HOC.png)
-  - Test execution chart was generated, the final report shows that a number 9 tests have failed of a total of 26 for GUI TESTING.
-  - Test execution chart was generated, the final report shows that all tests (1/1) passed for AD-HOC TESTING.
-  - A number of 27 test cases were planned for execution and all of them were executed.
-  - A number of 9 total bugs were found, from which the priority is:  medium.
+  - A fost generată diagrama de execuție a testelor, raportul final arată că un număr de 9 teste au eșuat din total 26 pentru TESTARE GUI.
+  - Au fost planificate pentru execuție un număr de 27 de cazuri de testare și toate au fost executate.
+  - S-au găsit un număr de 9 bug-uri în total, dintre care prioritatea este: medie.
     
- ### 3.9 Schedule
+ ### 3.9 Program
 
- - we have 10 days of testing
- - we have 27 functional and GUI tests
- - in order to finish the regression run we would need to run an ~ of 3 tests/day
-
-
-# Proiect-practic-OpenCart-API DOCUMENTATION
-
-## Introduction:
-
-JSON:API is designed to minimize both the number of requests and the amount of data transmitted between clients and servers. This efficiency is achieved without compromising readability, flexibility, or discoverability.
-
- API Documentation: https://docs.opencart.com/en-gb/system/users/api/
- 
- Tool used: Postman
- 
- The access token is **"L3MYyzlYMRL8gBcpCm6CdrVarFUXtPORZkJKP7vgaY8M8EIZWOr3EJxq"**.
- 
- Exemple of request for Opencart API:
- 
-- GET request gives data for: variable key, payment adress, payment method;
-- POST request creates new: login, email adress, currency, cart-add, cart-products;
-- PATCH request updates existing data for: cart-add details, cart-products
-- DELETE request deletes data for: cupon, customer data;
-
-The response shows us if the API is working properly. The response status code for all the request in Opencart API is 200 OK.
- 
-All requests are added to Postman collection, and it can be found here: [Postman collection](https://github.com/ioanagornateanu/Opencart-project/blob/main/API%20PROJECT.postman_collection.json)
-
-  
-# Proiect-practic-OpenCart-SQL SECTION:
-
-## Introduction:
-
-In Opencart Plaform we have a database of Additional Reading. 
-Using SQL subset below we will create our database, extract tables and we will make conection between tables using Primary Key and Foreign Key.
-
-- DDL Data Definition Language: Helps us define what kind of data we are going to store and how we are going to model this data.
-- DML Data Manipulation Language: allows us to insert, update, and delete data from database.
-- DQL Data Query Language: helps us to retrieve information from the database.
-- DCL Data Control Language: allows us to restrict and control access to database.
-
-SQL File with Additional Reading database for Opencart Platform can be found here: [Opencart Bookstore](https://github.com/ioanagornateanu/Opencart-project/blob/main/Bookstore%20Opencart_15.10.2023.sql)
-
-We extract different tables below to save data for different specifications.
-
-[Data for Delivery table](https://github.com/ioanagornateanu/Opencart-project/blob/main/Delivery%20table.csv) Data about DeliveryCompany, Quantity, FreeShipping.
+ - Pentru fixarea erorilor testarea s-a facut intr-un interval de 30 zile
+ - avem 27 teste
+ - pentru a termina rularea de regresie ar trebui să rulăm un numar de 3 teste/zi
 
 
-[Data for Deliverable table](https://github.com/ioanagornateanu/Opencart-project/blob/main/Delivrable%20table.csv) Data about Titles that can be deliverable.
 
-
-[Data from Reading Table where CoverColour is Red](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_CoverColour_Red.csv)
-
-[Data from Reading Table where EditionDate is before 1999-01-01](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_Data_1999.csv)
-
-[Data from Reading Table where Categories is Economics](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_Economics.csv) 
-
-[Data from Reading Table where Numberofpages is smaller than 200](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_NumberPages_200.csv)
-
-[Data from Reading Table where The Price si smaller than 100euro](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_Price_100.csv)
-
-[Data from Reading Table where Shipping is available](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_Shipping_Yes.csv)
-
-[Diagram table connection](https://github.com/ioanagornateanu/Opencart-project/blob/main/Schema%20tabele.pdf)
-
-
-  
