@@ -175,7 +175,7 @@ Riscuri de produs:
   
 ### 3.3 Cazuri de testare
   
-![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Test%20execution%201.png)
+
 
 ### 3.4 Raport lunar
   
@@ -187,8 +187,7 @@ Riscuri de produs:
 
   ### 3.6 Rezultate cazuri testare
 
-- Rezultatele cazurilor de testare pot fi găsite aici: [Test case results](https://github.com/ioanagornateanu/Opencart-project/blob/main/Test%20case%20result.pdf)
-
+- Rezultatele cazurilor de testare pot fi găsite aici:![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Test%20execution%201.png)
    ### 3.7 Raport bug
 
   - Erorile (bugs) raportate pot fi găsite aici: [Bugs](https://github.com/ioanagornateanu/Opencart-project/blob/main/Bugs.pdf) 
