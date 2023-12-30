@@ -207,18 +207,17 @@ Cazuri de testare + pasi de rulare se gasesc aici: [Cazuri testare + pasi](https
   - Erorile (bugs) raportate pot fi găsite aici: [Bugs](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Bug%20%2B%20pasi.pdf) 
 
    ### 3.8 Raport de finalizare a testului
-
-  - link către raportul de finalizare a testului (cazurile de testare au rulat, câte TC au fost trecute și câte au eșuat):
   
+  - A fost generată diagrama de execuție a testelor, raportul final arată că un număr de 5 teste au eșuat din total 15 pentru TESTARE GUI.
+  - Au fost planificate pentru execuție un număr de 15 de cazuri de testare și toate au fost executate.
+  - 10 teste au fost executate cu succes si au fost raportate 5 bug-uri în total.
+    
     ![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Test%20Release1.png)
 
     ![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Test%20Release2.png)
     ![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Test%20execution.png)
     
-  - A fost generată diagrama de execuție a testelor, raportul final arată că un număr de 5 teste au eșuat din total 15 pentru TESTARE GUI.
-  - Au fost planificate pentru execuție un număr de 15 de cazuri de testare și toate au fost executate.
-  - 10 teste au fost executate cu succes si au fost raportate 5 bug-uri în total.
-    
+
  ### 3.9 Program organizare
 
  - Pentru fixarea erorilor testarea s-a facut intr-un interval de 5 zile
