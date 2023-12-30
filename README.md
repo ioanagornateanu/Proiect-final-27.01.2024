@@ -59,7 +59,7 @@ OpenCart are o cantitate mare de caracteristici care vă oferă o baza puternic�
 
 Cu instrumentele OpenCart, vă puteți ajuta magazinul online să-și ridice potențialul maxim.
 
-Cele 2 story-uri de mai jos au fost create în JIRA și contin un rezumat al cazurilor de testare și al modificărilor care trebuie implementate, pentru care se realizează proiectul final.
+Cele 2 story-uri de mai jos au fost create în JIRA și contin un rezumat al cazurilor de testare și al modificărilor care urmeaza a fi implementate, pentru care se realizează proiectul final.
 
 STORY 1
 ![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Story%201.png)
