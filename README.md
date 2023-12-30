@@ -30,7 +30,7 @@
 
       2.7 Monitorizare si control
 
-   3. Livrabile
+3. Livrabile
 
       3.1 Plan de testare
 
