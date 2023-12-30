@@ -202,10 +202,11 @@ Cazuri de testare + pasi de rularese gasesc aici: [Cazuri testare + pasi](https:
     ![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Test%20Release1.png)
 
     ![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Test%20execution%202.png)
-    ![Daily report!]()
+    ![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Test%20execution.png)
+    
   - A fost generată diagrama de execuție a testelor, raportul final arată că un număr de 5 teste au eșuat din total 15 pentru TESTARE GUI.
   - Au fost planificate pentru execuție un număr de 15 de cazuri de testare și toate au fost executate.
-  - S-au găsit un număr de 5 bug-uri în total, dintre care prioritatea este: medie.
+  - 10 teste au fost executate cu succes si au fost raportate 5 bug-uri în total.
     
  ### 3.9 Program
 
