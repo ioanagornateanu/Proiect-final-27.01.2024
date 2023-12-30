@@ -183,7 +183,7 @@ Riscuri de produs:
 - Raport pentru numarul total de teste executate. Din total de 15 teste executate: 10 teste au fost executate cu succes iar pentru 5 teste au fost raportate erori ![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Daily%20tests%2010%20passed%205%20failed.png)
  ### 3.5 Matrice de trasabilitate
  
- - Link catre matrice de trasabilitare [Traceability Matrix](https://github.com/ioanagornateanu/Opencart-project/blob/main/Forward%20Traceability%20Matrix.png) .
+![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Matrice%20trasabilitate.png)
 
   ### 3.6 Rezultate cazuri testare
 
