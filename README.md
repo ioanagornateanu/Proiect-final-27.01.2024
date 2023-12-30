@@ -38,7 +38,7 @@
 
       3.3 Cazuri de testare
 
-      3.4 Raport zilnic
+      3.4 Raport lunar
 
       3.5 Matrice de trasabilitate
 
@@ -177,7 +177,7 @@ Riscuri de produs:
   
 - Cazurile de testare cu pași pot fi găsite aici: [test cases](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira)%20(3).pdf)
 
-### 3.4 Raport saptamanal
+### 3.4 Raport lunar
   
 - Raportul pentru testele executate a fost generat dupa ce toate testele au fost rulate: la data de 25 Decembrie 2023 ![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Test%20execution%2030%20days%20Summary.png)
 - Raport pentru numarul total de teste executate. Din total de 15 teste executate: 10 teste au fost executate cu succes iar pentru 5 teste au fost raportate erori ![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Daily%20tests%2010%20passed%205%20failed.png)
