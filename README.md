@@ -108,21 +108,21 @@ STORY 2
 #### Criterii de iesire:
 
 -	toate testele au fost executate
--	65.4% dintre teste au fost rulate cu succes
+-	75% dintre teste au fost rulate cu succes
 -	Nu avem situatii cu un risc ridicat. Toate defectele gasite au un risc si o severitate scazuta.
 
   
 #### Riscuri:
 Riscuri de proiect:
--    termen scurt pentru procesul Zephyr Squad;
+-   termen scurt pentru procesul Zephyr Squad;
 -   indisponibilitatea meniului de testare;
 
 Riscuri de produs:
--	datele utilizatorilor (produsele) ar putea fi afectate de testele de actualizare
--	Browserul folosit Chrome poate avea probleme de performanță
--	Versiunea browserului Chrome poate avea probleme de vulnerabilitate in siguranta utilizarii 
--	organizarea paginii web ar putea fi afectată atunci când este deschisă pe dispozitive mobile
--	noul browser posibil sa nu fie suportat
+-	datele utilizatorilor (produsele) ar putea fi afectate de testele de actualizare;
+-	Browserul folosit Chrome poate avea probleme de performanță;
+-	Versiunea browserului Chrome poate avea probleme de vulnerabilitate in siguranta utilizarii;
+-	organizarea paginii web ar putea fi afectată atunci când este deschisă pe dispozitive mobile;
+-	noul browser posibil sa nu fie suportat;
 -	riscuri de stabilitate (crashuri, deconectări etc.)
 
   ### 2.2 Analiza
@@ -153,8 +153,8 @@ Riscuri de produs:
 
   ### 2.6 Inchidere
   
--	Aproape 65.4% dintre teste au fost realizate cu succes
--	Nicio situaite critica nu are status de "Open"
+-	Aproape 75% dintre teste au fost realizate cu succes
+-	Nicio situatie critica nu are status de "Open"
 -	Testele exploratorii au fost realizate
 
 
@@ -201,14 +201,14 @@ Riscuri de produs:
     ![Daily report!](https://github.com/ioanagornateanu/Opencart-project/blob/main/Raport%20executie%20GUI%20TESTING.png)
 
     ![Daily report!](https://github.com/ioanagornateanu/Opencart-project/blob/main/Raport%20executie%20AD-HOC.png)
-  - A fost generată diagrama de execuție a testelor, raportul final arată că un număr de 9 teste au eșuat din total 26 pentru TESTARE GUI.
-  - Au fost planificate pentru execuție un număr de 27 de cazuri de testare și toate au fost executate.
-  - S-au găsit un număr de 9 bug-uri în total, dintre care prioritatea este: medie.
+  - A fost generată diagrama de execuție a testelor, raportul final arată că un număr de 5 teste au eșuat din total 15 pentru TESTARE GUI.
+  - Au fost planificate pentru execuție un număr de 15 de cazuri de testare și toate au fost executate.
+  - S-au găsit un număr de 5 bug-uri în total, dintre care prioritatea este: medie.
     
  ### 3.9 Program
 
- - Pentru fixarea erorilor testarea s-a facut intr-un interval de 30 zile
- - avem 27 teste
+ - Pentru fixarea erorilor testarea s-a facut intr-un interval de 5 zile
+ - avem 15 teste executate din care 10 teste rulate cu succes si 5 teste la care au fost raportate erori
  - pentru a termina rularea de regresie ar trebui să rulăm un numar de 3 teste/zi
 
 
