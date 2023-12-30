@@ -171,7 +171,7 @@ Riscuri de produs:
 
   ### 3.2 Conditii de testare 
 
-- Următoarele condiții de testare pot fi găsite aici: [test conditions](https://github.com/ioanagornateanu/Opencart-project/blob/main/Test%20condition.pdf)
+- Următoarele condiții de testare pot fi găsite aici: ![Daily Report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Test%20case%20prioritate.png)
   
 ### 3.3 Cazuri de testare
   
