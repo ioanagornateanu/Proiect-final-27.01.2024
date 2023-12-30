@@ -154,19 +154,19 @@ Riscuri de produs:
   ### 2.6 Inchidere
   
 -	Aproape 75% dintre teste au fost realizate cu succes
--	Nicio situatie critica nu are status de "Open"
+-	Nicio situatie critica nu are status de "Open", prioritatea testelor fiind de nivel mediu
 -	Testele exploratorii au fost realizate
 
 
   ### 2.7 Monitorizare si control
   
--	Rapoarte periodice (zilnica/saptamanale) vor fi generate pentru a reflecta starea curentă a procesului de testare. 
+-	Rapoarte periodice (zilnica/saptamanale/lunare) vor fi generate pentru a reflecta starea curentă a procesului de testare. 
 
      # 3. Livrabile
  	
   ### 3.1 Plan de testare
 
--	Planul de testare este conceput pentru a descrie toate detaliile testării pentru următoarele caracteristici:  folosirea butonului „Filtru” ca scurtătură pentru căutare, modificarea specificațiile pentru Producători, modificarea specificațiile pentru produse;verificarea accesarii site-ului folosind un cont demo, utilizarea campului filtru pentru a gasi mai usor produsele dorite, modificarea datelor specifice ale produselor de pe site, verificare disponibilitate produse, modificare afisare meniu, actualizare poze pentru produse, modificare preturi produse;
+-	Planul de testare este conceput pentru a descrie toate detaliile testării pentru următoarele caracteristici: verificarea accesarii site-ului folosind un cont demo, utilizarea campului filtru pentru a gasi mai usor produsele dorite, modificarea datelor specifice ale produselor de pe site, verificare disponibilitate produse, modificare afisare meniu, actualizare poze pentru produse, modificare preturi produse;
 -	Planul identifică elementele și caracteristicile care trebuie testate, tipul de testare care trebuie efectuată, rolurile și responsabilitățile pentru procesul de testare, riscurile asociate cu planul, resursele și programul necesar pentru finalizarea testării.
 
   ### 3.2 Conditii de testare 
