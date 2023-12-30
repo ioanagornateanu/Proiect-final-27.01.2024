@@ -192,7 +192,7 @@ Cazuri de testare + pasi de rulare se gasesc aici: [Cazuri testare + pasi](https
   
 - Raportul pentru testele executate a fost generat dupa ce toate testele au fost rulate: la data de 25 Decembrie 2023 ![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Test%20execution%2030%20days%20Summary.png)
 - Raport pentru numarul total de teste executate. Din total de 15 teste executate: 10 teste au fost executate cu succes iar pentru 5 teste au fost raportate erori ![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Daily%20tests%2010%20passed%205%20failed.png)
- ### 3.5 Matrice de trasabilitate
+ ### 3.5 Matricea de trasabilitate
  
 ![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Matrice%20trasabilitate.png)
 
