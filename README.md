@@ -175,7 +175,7 @@ Riscuri de produs:
   
 ### 3.3 Cazuri de testare
   
-- Cazurile de testare cu pași pot fi găsite aici: [test cases](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira)%20(3).pdf)
+![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Test%20execution%201.png)
 
 ### 3.4 Raport lunar
   
