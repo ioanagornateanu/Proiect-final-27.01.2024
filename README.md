@@ -167,7 +167,7 @@ Riscuri de produs:
 
   ### 2.7 Monitorizare si control
   
--	Rapoarte periodice (zilnica/saptamanale/lunare) vor fi generate pentru a reflecta starea curentă a procesului de testare. 
+-	Rapoarte periodice (zilnice/saptamanale/lunare) vor fi generate pentru a reflecta starea curentă a procesului de testare. 
 
      # 3. Livrabile
  	
