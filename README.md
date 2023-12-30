@@ -62,7 +62,7 @@ Cu instrumentele OpenCart, vă puteți ajuta magazinul online să-și ridice pot
 Cele 2 story-uri de mai jos au fost create în JIRA și contin un rezumat al cazurilor de testare și al modificărilor care trebuie implementate, pentru care se realizează proiectul final.
 
 ![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Story%201.png)
-![Daily report!]()
+![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Story2.png)
 
   ## 1.1 Scopul proiectului
 
