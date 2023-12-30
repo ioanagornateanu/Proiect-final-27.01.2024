@@ -64,9 +64,11 @@ Cu instrumentele OpenCart, vă puteți ajuta magazinul online să-și ridice pot
 Cele 2 cerinte de business (story-uri) de mai jos au fost create în JIRA și contin un rezumat al cazurilor de testare și al modificărilor care urmeaza a fi implementate, pentru care se realizează proiectul final.
 
 STORY 1
+
 ![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Story%201.png)
 
 STORY 2
+
 ![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Story2.png)
 
   ## 1.1 Scopul proiectului
@@ -178,7 +180,9 @@ Riscuri de produs:
 
   ### 3.2 Conditii de testare 
 
-- Condiții de testare si prioritatea testelor: ![Daily Report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Test%20case%20prioritate.png)
+- Condiții de testare si prioritatea testelor:
+
+![Daily Report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Test%20case%20prioritate.png)
   
 ### 3.3 Cazuri de testare
   
