@@ -199,7 +199,7 @@ Cazuri de testare + pasi de rularese gasesc aici: [Cazuri testare + pasi](https:
 
   - link către raportul de finalizare a testului (cazurile de testare au rulat, câte TC au fost trecute și câte au eșuat):
   
-    ![Daily report!](https://github.com/ioanagornateanu/Opencart-project/blob/main/Raport%20executie%20GUI%20TESTING.png)
+    ![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Test%20Release1.png)
 
     ![Daily report!](https://github.com/ioanagornateanu/Opencart-project/blob/main/Raport%20executie%20AD-HOC.png)
   - A fost generată diagrama de execuție a testelor, raportul final arată că un număr de 5 teste au eșuat din total 15 pentru TESTARE GUI.
