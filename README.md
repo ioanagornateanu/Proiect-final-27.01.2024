@@ -79,7 +79,7 @@ STORY 2
 
  Parti folosite in procesul de testare: 
 
--	 Parti folosite in procesul de testare: folosirea butonului "Filter" ca si scurtatura pentru cautarea produselor din site, schimbarea datelor produselor de pe site;
+-	 Parti folosite in procesul de testare: folosirea butonului "Filter" ca si scurtatura pentru cautarea produselor din site, modificarea datelor specifice ale produselor de pe site, verificare disponibilitate produse, modificare afisare meniu, actualizare poze pentru produse;
   
 -	Tipuri de testare: Graphical User Interface.
 
