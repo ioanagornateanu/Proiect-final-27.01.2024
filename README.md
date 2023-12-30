@@ -144,7 +144,7 @@ Riscuri de produs:
 
   ### 2.4 Implementare
   
--	toate datele de testare sunt disponibile și revizuite (date de test= exemple de e-mail, exemple de parole)
+-	toate datele de testare sunt disponibile și revizuite 
 -	A fost creat Cycle summary  și cazurile de testare au fost adăugate la Cycle summary  
 -	Mediul de testare este activ și rulează: https://demo.opencart.com/
 -	Accesul la mediul de testare este dat:  Username : demo | Password : demo
