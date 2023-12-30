@@ -122,7 +122,7 @@ Riscuri de proiect:
 -   riscul de a nu avea toate datele pentru produsele existente pe site (nume actualizate, numar cantitate in stoc) in consecinta clientul final nemultumit pentru ca are nevoie de lamuriri suplimentare
 -   riscul de a nu vinde produse din cauza absentei pozelor din descriere in consecinta clientulul sufera pierderi financiare
 -   riscul de a nu identifica produsele care nu mai sunt in stoc in consecinta clientul final este nemultumit deoarece va plati bani si nu va primi produsul
--   
+  
 Riscuri de produs:
 -	datele utilizatorilor (produsele) ar putea fi afectate de testele de actualizare;
 -	Browserul folosit Chrome poate avea probleme de performanță;
