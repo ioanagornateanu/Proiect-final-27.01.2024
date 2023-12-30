@@ -48,6 +48,8 @@
 
       3.8 Raport de finalizare a testului
 
+      3.9 Program organizare
+
       # 1. Introducere
       
 OpenCart este o platforma online care poate fi accesata in mod gratuit pentru comert electronic.
@@ -208,7 +210,7 @@ Cazuri de testare + pasi de rularese gasesc aici: [Cazuri testare + pasi](https:
   - Au fost planificate pentru execuție un număr de 15 de cazuri de testare și toate au fost executate.
   - 10 teste au fost executate cu succes si au fost raportate 5 bug-uri în total.
     
- ### 3.9 Program
+ ### 3.9 Program organizare
 
  - Pentru fixarea erorilor testarea s-a facut intr-un interval de 5 zile
  - avem 15 teste executate din care 10 teste rulate cu succes si 5 teste la care au fost raportate erori
