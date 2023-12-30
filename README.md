@@ -156,6 +156,7 @@ Riscuri de produs:
 -	Cazurile de testare vor fi executate pe baza Cycle Summary creat
 -	Erorile (bugs) vor fi raportate pe baza testelor eșuate
 
+![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/cycle%20summary%20exemplu.png)
 
   ### 2.6 Inchidere
   
