@@ -176,6 +176,7 @@ Riscuri de produs:
   
 -	Rapoarte periodice (zilnice/saptamanale/lunare) vor fi generate pentru a reflecta starea curentă a procesului de testare. 
 
+![Daily report!]()
      # 3. Livrabile
  	
   ### 3.1 Plan de testare
