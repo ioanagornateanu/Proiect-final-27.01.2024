@@ -123,10 +123,7 @@ STORY 2
 Riscuri de proiect:
 -   termen scurt pentru procesul Zephyr Squad;
 -   indisponibilitatea meniului de testare;
--   riscul de a nu avea un meniu disponibil in limba franceza in consecinta clientul sufera pierderi financiare
--   riscul de a nu avea toate datele pentru produsele existente pe site (nume actualizate, numar cantitate in stoc) in consecinta clientul final nemultumit pentru ca are nevoie de lamuriri suplimentare
--   riscul de a nu vinde produse din cauza absentei pozelor din descriere in consecinta clientulul sufera pierderi financiare
--   riscul de a nu identifica produsele care nu mai sunt in stoc in consecinta clientul final este nemultumit deoarece va plati bani si nu va primi produsul
+
   
 Riscuri de produs:
 -	datele utilizatorilor (produsele) ar putea fi afectate de testele de actualizare;
@@ -135,6 +132,11 @@ Riscuri de produs:
 -	organizarea paginii web ar putea fi afectată atunci când este deschisă pe dispozitive mobile;
 -	noul browser posibil sa nu fie suportat;
 -	riscuri de stabilitate (crashuri, deconectări etc.)
+-	riscul de a nu avea un meniu disponibil in limba franceza in consecinta clientul sufera pierderi financiare
+-    riscul de a nu avea toate datele pentru produsele existente pe site (nume actualizate, numar cantitate in stoc) in consecinta clientul final nemultumit pentru ca are nevoie de 
+   lamuriri suplimentare
+-   riscul de a nu vinde produse din cauza absentei pozelor din descriere in consecinta clientulul sufera pierderi financiare
+-   riscul de a nu identifica produsele care nu mai sunt in stoc in consecinta clientul final este nemultumit deoarece va plati bani si nu va primi produsul
 
   ### 2.2 Analiza
   
