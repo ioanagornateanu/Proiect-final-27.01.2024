@@ -197,7 +197,10 @@ Cazuri de testare + pasi de rulare se gasesc aici: [<strong>CAZURI DE TESTARE + 
 
 ### 3.4 Raport lunar
   
-- Raportul pentru testele executate a fost generat dupa ce toate testele au fost rulate: la data de 25 Decembrie 2023 ![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Test%20execution%2030%20days%20Summary.png)
+- Raportul pentru testele executate a fost generat dupa ce toate testele au fost rulate: la data de 25 Decembrie 2023
+   ![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Test%20Release1.png)
+
+    ![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Test%20Release2.png)
 - Raport pentru numarul total de teste executate. Din total de 15 teste executate: 10 teste au fost executate cu succes iar pentru 5 teste au fost raportate erori ![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Daily%20tests%2010%20passed%205%20failed.png)
  ### 3.5 Matricea de trasabilitate
  
@@ -219,9 +222,7 @@ Matricea de trasabilitate evidentiaza faptul ca pentru prima cerinta de business
   - A fost generată diagrama de execuție a testelor, raportul final arată că din totalul de 15 teste: 10 teste au fost executate cu succes iar 5 teste au eșuat pentru testare de tip Graphical User Interface.
 
 
-    ![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Test%20Release1.png)
-
-    ![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Test%20Release2.png)
+   
     ![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Test%20execution.png)
     
 
