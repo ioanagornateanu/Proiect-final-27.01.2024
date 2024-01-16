@@ -204,7 +204,7 @@ Matricea de trasabilitate evidentiaza faptul ca pentru prima cerinta de business
   ![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Test%20execution%202.png)
    ### 3.7 Raport bug
 
-  - Erorile (bugs) raportate pot fi găsite aici: [Bugs](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Bug%20%2B%20pasi.pdf) 
+  - Erorile (bugs) raportate pot fi găsite aici: [<strong>Bugs</strong>](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Bug%20%2B%20pasi.pdf) 
 
    ### 3.8 Raport de finalizare a testului
 
