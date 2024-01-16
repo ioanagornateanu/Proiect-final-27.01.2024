@@ -176,7 +176,8 @@ Riscuri de produs:
   
 -	Rapoarte periodice (zilnice/saptamanale/lunare) vor fi generate pentru a reflecta starea curentă a procesului de testare. 
 
-![Daily report!]()
+![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Raport%20test%20matrics_15.01.2024.png)
+
      # 3. Livrabile
  	
   ### 3.1 Plan de testare
