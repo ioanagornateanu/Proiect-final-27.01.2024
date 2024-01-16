@@ -196,7 +196,6 @@ Cazuri de testare + pasi de rulare se gasesc aici: [Cazuri testare + pasi](https
  
 ![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Matrice%20trasabilitate.png)
 
-![Daily report](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Matrice%20trasabilitate%20f%20excell.png)
 
   ### 3.6 Rezultate cazuri testare
 
