@@ -106,14 +106,17 @@ STORY 2
 
 #### Criterii de intrare:
 
--	cerintele de business sunt definite
--	rolurile necesare pentru proiect sunt alocate.
+-	cerintele de business sunt definite (cele 2 story-uri create: capacitatea site-ului de a folosi un cont demo si de a fi rulat cu specificatii de admin cat si de a fi rulat cu alte tipuri de specificatii pentru utilizatorii existenti)
+-	rolurile necesare pentru proiect sunt alocate, au fost alocati testeri
+-	teste de baza au fost rulate cu succes, urmatoarele teste ce vor rula nu vor genera probleme care sa impacteze aplicatia. 
   
 #### Criterii de iesire:
 
 -	toate testele au fost executate
 -	75% dintre teste au fost rulate cu succes
 -	Nu avem situatii cu un risc ridicat. Toate defectele gasite au un risc si o severitate scazuta.
+-	Nu avem buguri critice deschise
+-	Test case-urile executate sunt toate inregistrate passed, pentru cele la care am raportat defecte, nu am inregistrat erori critice
 
   
 #### Riscuri:
