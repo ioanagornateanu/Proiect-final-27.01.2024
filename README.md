@@ -186,7 +186,7 @@ Riscuri de produs:
   
 ### 3.3 Cazuri de testare
   
-Cazuri de testare + pasi de rulare se gasesc aici: [Cazuri testare + pasi](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira)%20(3).pdf)
+Cazuri de testare + pasi de rulare se gasesc aici: [<strong>CAZURI DE TESTARE + PASI DE EXECUTIE</strong>](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira)%20(3).pdf)
 
 ### 3.4 Raport lunar
   
