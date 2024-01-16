@@ -196,6 +196,7 @@ Cazuri de testare + pasi de rulare se gasesc aici: [Cazuri testare + pasi](https
  
 ![Daily report!](https://github.com/ioanagornateanu/Proiect-final-27.01.2024/blob/main/Matrice%20trasabilitate.png)
 
+Matricea de trasabilitate evidentiaza faptul ca pentru prima cerinta de business am executat 7 teste dintre care 5 teste au rulat cu succes si iar pentru 2 dintre ele am raportat defecte (erori), iar pentru a2a cerinta de business am executat 8 teste dintre care 5 teste au rulat cu succes si am raportat 3 defecte.
 
   ### 3.6 Rezultate cazuri testare
 
