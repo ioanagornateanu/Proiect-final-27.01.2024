@@ -108,7 +108,7 @@ STORY 2
 
 -	cerintele de business sunt definite (cele 2 story-uri create: capacitatea site-ului de a folosi un cont demo si de a fi rulat cu specificatii de admin cat si de a fi rulat cu alte tipuri de specificatii pentru utilizatorii existenti)
 -	rolurile necesare pentru proiect sunt alocate, au fost alocati testeri
--	teste de baza au fost rulate cu succes, urmatoarele teste ce vor rula nu vor genera probleme care sa impacteze aplicatia. 
+  
   
 #### Criterii de iesire:
 
